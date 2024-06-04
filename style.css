@@ -12,6 +12,9 @@
   border:10px solid #0c0c0c;
   margin-left:auto;
   margin-right:auto;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .logo
