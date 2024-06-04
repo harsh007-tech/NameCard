@@ -20,7 +20,7 @@
 .logo
 {
   max-height:50vh;
-  max-width:auto;
+  max-width:100%;
   min-height:5vh;
   min-width:1vw;
   border-radius:50%;
