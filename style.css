@@ -12,17 +12,17 @@
   border:10px solid #0c0c0c;
   margin-left:auto;
   margin-right:auto;
-  display:flex;
+/*   display:flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center; */
 }
 
 .logo
 {
   max-height:50vh;
   max-width:100%;
-  min-height:5vh;
-  min-width:1vw;
+  min-height:2vh;
+  min-width:0.5vw;
   border-radius:50%;
   margin-left:15%;
 }
