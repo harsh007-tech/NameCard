@@ -24,6 +24,8 @@
   min-height:1rem;
   min-width:1rem;
   border-radius:50%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .skillImg
