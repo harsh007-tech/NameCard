@@ -21,8 +21,8 @@
 {
   max-height:50vh;
   max-width:100%;
-  min-height:2vh;
-  min-width:0.5vw;
+  min-height:1rem;
+  min-width:1rem;
   border-radius:50%;
   margin-left:15%;
 }
